@@ -22,9 +22,5 @@ resource "azurerm_storage_account" "newonestg" {
   account_replication_type = "LRS"
 }
 
-resource "azurerm_storage_container" "newcontainer" {
-  name                  = "mycontainer"
-  storage_account_name  = azurerm_storage_account.newonestg.name
-  container_access_type = "private"  # Options: private, blob, container
-}
+
 
