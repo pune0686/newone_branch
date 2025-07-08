@@ -28,3 +28,10 @@ resource "azurerm_storage_container" "newcontainer" {
   container_access_type = "private"  # Options: private, blob, container
 }
 
+{
+Ek din Ravi naam ka developer CodeNagar mein kaam kar raha tha. Usne socha, 
+"Main ek naya project (ProjectX) banaunga jo duniya badal dega."
+
+Ravi ne ek magical diary (Git) li — jo har cheez yaad rakh sakti thi: har line ka code, 
+har badlav, har galti, sab kuch!
+}
