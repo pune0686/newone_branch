@@ -35,3 +35,7 @@ My expertise spans across infrastructure as code using Terraform, source control
 I’ve worked on end-to-end automation of deployments, optimized cloud infrastructure on Azure and AWS, and collaborated closely with cross-functional teams to ensure smooth integration and delivery. I hold an AWS certification valid until 2026 and previously held an AZ-400 Azure DevOps certification.
 
 I'm passionate about process improvement, automation, and leveraging cloud-native technologies to build scalable and reliable systems.
+
+kuch bhi add kardocheck "name" {
+  
+}
